@@ -102,3 +102,4 @@ Now for the best part...
 
 <a href =""> <img src="./MottoCards/CodingSpeciesCard.png" height=200/> </a>
 
+# This is still in progress! Will be open to contributions soon!
