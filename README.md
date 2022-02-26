@@ -1,6 +1,16 @@
-## Today, we are going to Markup our own *Markdown* social profiles!
+<div align=center>
+    <img src="./avatar/default.png">
+    <h1> Social Motto </h1>
+    <a href="https://github.com/App-Choreography/SocialMotto/issues"> <img src="./assets/openissue.png" height=50> </a> <a href=""> <img src="./assets/website.png" height=49> </a>
+    <a href="https://github.com/App-Choreography/SocialMotto/pulls"> <img src="./assets/pullReq.png" height=49> </a> <a href="https://github.com/App-Choreography"> <img src="./assets/github.png" height=49> </a>
+</div>
+<h3>
+    <details close>
+        <summary> 
+            👉 Click to See how to make your own Social Motto 👈 
+         </summary> 
 
-[See all profiles](./SocialProfileList.md)
+<br>
 
 > If you need help on mastering Markdown, see [👉 Here 👈](https://www.markdownguide.org/)
 
@@ -8,8 +18,6 @@ If your PR is successful, you will get the digital sticker designed personally f
 ### 🤞 Hopefully, this is what you shall get : 🤞
 
 ![eg](https://user-images.githubusercontent.com/70807500/155803634-4b4b2236-5304-4810-9919-a120f53136ec.png)
-
-### 🧾 How to make your own!
 
 1. Fork 🍽️ this repo, by pressing the `fork` button at the top right of the screen.
 2. `git clone` your forked version of the repo to your PC.
@@ -26,7 +34,6 @@ If your PR is successful, you will get the digital sticker designed personally f
   <img src="../avatar/seeAvatarFolderChooseYourAvatar.png" />
 
     <h1> Name here </h1>
-
     <h4>💭 <b> Motto goes here 💭 </b> </h4>
 
     <br>
@@ -73,6 +80,25 @@ Now for the best part...
 
 ## Our rewards for you 🥇:
 
-- [x] We have got our own digital stickers to give to you when your profile is merged!
+- [x] You will be added and given your own special link with your profile!
 - [x] You will get an invite to our organisation! 🎖️
 - [x] We will add you automatically to our Hall of Fame 🖼️!
+</details>
+
+[See all profiles](./SocialProfileList.md)
+
+<details close>
+    <summary>
+        👉 Click to see the available icons and add-ons to customize your profile! 👈
+    </summary>
+    <img src="./avatar/girlAvatarGuide.png">
+    <img src="./avatar/boyAvatarGuide.png">
+    <img src="./avatar/avatarOverview.png">
+    See the rest here: 
+    <a href="./avatar">  Avatars </a>
+</details>
+</h3>
+
+
+<a href =""> <img src="./MottoCards/CodingSpeciesCard.png" height=200/> </a>
+
